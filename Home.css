@@ -1,19 +1,15 @@
 .u-section-1 {
-  background-image: none;
-  min-height: 945px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/dawq-min.jpg");
 }
 
-.u-section-1 .u-image-1 {
-  height: 675px;
-  filter: brightness(0.7);
-  margin-top: 1px;
-  margin-bottom: 0;
+.u-section-1 .u-sheet-1 {
+  min-height: 945px;
 }
 
 .u-section-1 .u-group-1 {
   min-height: 286px;
   width: 1140px;
-  margin: -121px auto 60px;
+  margin: 554px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -38,16 +34,13 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
-    min-height: 823px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 603px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 779px;
   }
 
   .u-section-1 .u-group-1 {
     width: 940px;
+    margin-top: -121px;
   }
 
   .u-section-1 .u-text-1 {
@@ -62,12 +55,8 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
-    min-height: 732px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 512px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 597px;
   }
 
   .u-section-1 .u-group-1 {
@@ -85,6 +74,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 448px;
+  }
+
   .u-section-1 .u-group-1 {
     width: 540px;
   }
@@ -105,12 +98,8 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
-    min-height: 512px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 400px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 282px;
   }
 
   .u-section-1 .u-group-1 {
