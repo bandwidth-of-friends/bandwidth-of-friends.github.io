@@ -128,15 +128,16 @@
 
 @media (max-width: 575px) {
   .u-section-1 {
-    background-position: 52.7% 25.35%;
+    background-position: 52.7% 42.45%;
+    background-size: auto 130%;
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 871px;
+    min-height: 780px;
   }
 
   .u-section-1 .u-group-1 {
-    margin-top: 494px;
+    margin-top: 442px;
     min-height: 227px;
     width: auto;
     margin-right: initial;
