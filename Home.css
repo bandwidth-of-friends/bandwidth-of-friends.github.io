@@ -587,33 +587,33 @@
 }
 
 .u-section-4 .u-text-1 {
-  margin: 50px 472px;
+  margin: 50px 432px 50px 472px;
 }
 
 @media (max-width: 1199px) {
   .u-section-4 .u-text-1 {
     margin-left: 372px;
-    margin-right: 372px;
+    margin-right: 332px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-4 .u-text-1 {
     margin-left: 262px;
-    margin-right: 262px;
+    margin-right: 222px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-4 .u-text-1 {
     margin-left: 172px;
-    margin-right: 172px;
+    margin-right: 132px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-text-1 {
     margin-left: 72px;
-    margin-right: 72px;
+    margin-right: 32px;
   }
 }
