@@ -575,7 +575,7 @@ section {
 /* About Us Section
 --------------------------------*/
 #about {
-  background: #fff;
+  background: rgb(255, 255, 255);
   padding: 60px 0;
 }
 
@@ -584,7 +584,7 @@ section {
 }
 
 #about .about-container .content {
-  background: #fff;
+  background: rgb(255, 255, 255);
 }
 
 #about .about-container .title {
