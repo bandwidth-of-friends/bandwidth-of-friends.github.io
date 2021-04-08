@@ -311,6 +311,7 @@ iframe {
   padding: 0 25px;
 }
 
+
 input.input100 {
   height: 55px;
 }
@@ -517,5 +518,9 @@ textarea.input100 {
   }
 }
 
-
+.status{
+  color: #48bcff;
+  padding-top: 25px;
+  size: 15px;
+}
 
