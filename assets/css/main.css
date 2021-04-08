@@ -40,13 +40,13 @@
 	box-sizing: border-box;
 }
 
-body, html {
+contactus.body, contactus.html {
 	height: 100%;
 	font-family: Poppins-Regular, sans-serif;
 }
 
-/*---------------------------------------------*/
-a {
+/*-------------------------------------*/
+contactus.a {
 	font-family: Poppins-Regular;
 	font-size: 14px;
 	line-height: 1.7;
@@ -58,20 +58,20 @@ a {
   -moz-transition: all 0.4s;
 }
 
-a:focus {
+contactus.a:focus {
 	outline: none !important;
 }
 
-a:hover {
+contactus.a:hover {
 	text-decoration: none;
 }
 
-/*---------------------------------------------*/
-h1,h2,h3,h4,h5,h6 {
+/*-------------------------------------------*/
+contactus.h1,contactus.h2,contactus.h3,contactus.h4,contactus.h5,contactus.h6 {
 	margin: 0px;
 }
 
-p {
+contactus.p {
 	font-family: Poppins-Regular;
 	font-size: 14px;
 	line-height: 1.7;
@@ -79,7 +79,7 @@ p {
 	margin: 0px;
 }
 
-ul, li {
+contactus.ul, contactus.li {
 	margin: 0px;
 	list-style-type: none;
 }
@@ -138,23 +138,23 @@ iframe {
 /*//////////////////////////////////////////////////////////////////
 [ utility ]*/
 
-/*==================================================================
-[ Text ]*/
-.txt1 {
+/*==================================================================*/
+[ Text ]
+contactus.txt1 {
   font-family: Poppins-Regular;
   font-size: 18px;
   line-height: 1.2;
   color: #fff;
 }
 
-.txt2 {
+contactus.txt2 {
   font-family: Poppins-Regular;
   font-size: 15px;
   line-height: 1.6;
   color: #999999;
 }
 
-.txt3 {
+contactus.txt3 {
   font-family: Poppins-Regular;
   font-size: 15px;
   line-height: 1.6;
